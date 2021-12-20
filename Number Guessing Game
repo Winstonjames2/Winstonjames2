@@ -1,0 +1,24 @@
+#Number Guess Game by @Winston
+answer = 18
+limits = 0
+out_of_limits=2
+print("\nYou have 2 attempts to guess.\n\nYou had 5 dollars and you spent 1$ to buy shoes, you giveaway 3$ and you got 17$ from your parents.\nHow many dollars do u have now!\n")
+while True:    
+    
+    try:
+        userchoice = int(input("Enter your guess: "))
+        if userchoice == answer:
+            print("\nCongratulation, You won")
+            break
+        else:
+            out_of_limits-=1
+            if limits==out_of_limits:
+                print("\nYou Lost, Out of limits!")
+                break
+            else:
+                print(f'\nTry again, you have {out_of_limits}attempts left')
+    except:
+        print("\nWrong input, ONLY Number!\n")
+        
+
+    
