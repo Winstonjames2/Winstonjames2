@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Winston
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Winston.
+- 👀 I’m interested in software engineering and artificial intelligence
+- 🌱 I’m currently learning python and full stack web development.
 - 📫 I'm a self-taught beginner of programminng. Teach me. :)
 
 <!---
