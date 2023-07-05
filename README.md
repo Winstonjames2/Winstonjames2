@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Winston.
+- 👋 Hi, I’m Winston (Kyaw Htet Myet Tun).
 - 👀 I’m interested in software engineering and artificial intelligence
 - 🌱 I’m currently learning web development with django and flask. And, Unity engine. 
 - 📫 I'm a self-taught beginner of programminng, I learned from YouTube. Teach me. XD
