@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Winston (Kyaw Htet Myet Tun).
-- 👀 I’m interested in software engineering and artificial intelligence
-- 🌱 I’m currently learning web development with django and flask. And, Unity engine. 
-- 📫 I'm a self-taught beginner of programminng, I learned from YouTube. Teach me. XD
+- 👋 Hi, I’m Winston.
+- 👀 I’m interested in ______.
+- 🌱 I’m currently learning Guess what Nothing Important.
+- 📫 I'm a ____________________________________-
 
 <!---
 Winstonjames2/Winstonjames2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
